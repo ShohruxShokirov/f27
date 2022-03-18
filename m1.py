@@ -1,4 +1,4 @@
-
+#ukam
 def Sum(x):
     a=0
     for i in x[::-1]:
